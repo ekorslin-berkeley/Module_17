@@ -18,6 +18,6 @@ In determing which predictive model produced the most accurate predictive abilit
 
 Please find link to practical application file in demonstration of steps taken to arrive at the above conclusions.
 
-https://github.com/ekorslin-berkeley/Module_17/blob/main/prompt_III%20(2).ipynb
+https://github.com/ekorslin-berkeley/Module_17/blob/main/prompt_III.ipynb
 
 
